@@ -13,3 +13,6 @@ OS X 10.6 or later, 64-bit processor
 
 Proudly powered by [SnailSVN](https://itunes.apple.com/app/snailsvn/id847259925?mt=12 "TortoiseSVN-like SVN client for macOS") \(SVN client with Finder integration\).
 
+## License
+
+xeyes is released under the MIT license. See the [LICENSE](LICENSE) file.
